@@ -1,0 +1,103 @@
+body, html{
+	width:100%;
+	height:100%;
+}
+body{
+	padding:40px;
+}
+.float_right{
+	float:right;
+}
+.float_left{
+	float:left;
+}
+.conteiner{
+	background-color:#22B573;
+	height:100%;
+	padding:5%;
+}
+.logo {
+	width:20%;
+
+}
+.navigation_li{
+	display:inline-block;
+	vertical-align:middle;
+}
+.navigation_a{
+	font-size:45px;
+	color:#FFFFFF;
+	margin-right:15px;
+}
+.box1{
+	width:48%;
+	background:#FCEE21;
+	padding:1%;
+}
+.clear{
+	clear:both;
+}
+.internet{
+	width:100%;
+	height:70%;
+	background:#F9F7F9;
+}
+.baner_img {
+	width:32%;
+	padding:2.5%;
+}
+.texth1{
+	font-size:150%;
+	color:#000;
+}
+.paragraf{
+ padding:8%;
+}
+.veb{
+	background:#E6E6E6;
+	width:100%;
+	height:70%;
+}
+.ptext{
+	padding:1%;
+	font-size:90%;
+}
+.paragraf1{
+	padding:8%;
+	text-align:right; 
+}
+.divtext{
+	font-size:90%;
+	padding:10%;
+	margin:5%;
+}
+.conteiner_section1{
+	background:#E6E6E6;
+	width:80%;
+}
+.boxdivi{
+	background-color:#22B573;
+	height:100%;
+	padding:5%;
+}
+.boxdivi1{
+	background-color:#29ABE2;
+	height:100%;
+	padding:5%;
+}
+.boxdivi2{
+	background-color:#FCEE21;
+	height:50%;
+	width:100%;
+	padding:5%;
+
+}  
+.boxdivi3{
+	background-color:#FCEE21;
+	height:70%;
+	width:100%;
+	padding:5%;
+}
+.display_inline_block{
+	display:inline-block;
+}
